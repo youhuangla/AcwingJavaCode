@@ -16,4 +16,5 @@ public class acw_616 {// should be changed to Main in ACW
         distance = sqrt(pow(x1 - x2, 2) + pow(y2 - y1, 2));
         System.out.printf("%.4f", distance);
     }
+    //
 }
